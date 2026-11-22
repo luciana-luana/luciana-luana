@@ -5,7 +5,7 @@ I am a master’s student in Linguistics and a web developer in constant develop
 <a href="https://www.linkedin.com/in/lucianadacruz/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://lucianaluana.com">
+<a href="https://luciana-luana.github.io/portefolio2/">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
 </a>
 
